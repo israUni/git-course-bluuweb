@@ -25,7 +25,7 @@ Comando para clonar un repositorio existente en github.com
 
 Dentro del desarrollo de aplicaciones, generalmente se hace uso del archivo *.gitignore*, donde establecemos las carpetas/archivos que no queremos que git les de seguimiento, por ejemplo:
 ```
-app.js // Ignora el archivo *app.js*
+app.js // Ignora el archivo app.js
 *.css // Ignora todos los archivos con extensión .css
 node_modules // Ignora toda la carpeta con el nombre node_modules
 ```
