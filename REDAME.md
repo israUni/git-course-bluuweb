@@ -29,3 +29,5 @@ app.js // Ignora el archivo app.js
 *.css // Ignora todos los archivos con extensión .css
 node_modules // Ignora toda la carpeta con el nombre node_modules
 ```
+```git branch -m master main```
+Cambiamos el nombre de nuestra rama (branh) principal, en este caso, de *master* a *main*
